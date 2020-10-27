@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Discord bot to manage services on the host",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "JtheDroid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JtheDroid/discord-service-manager"
+  },
   "dependencies": {
     "discord.js": "^12.4.1"
   }
